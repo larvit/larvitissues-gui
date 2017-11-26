@@ -1,0 +1,19 @@
+{
+  "name": "larvitissues-gui",
+  "version": "0.0.1",
+  "description": "GUI to larvitissues",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larvit/larvitissues-git.git"
+  },
+  "author": "Lilleman <lilleman@larvit.se>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larvit/larvitissues-gui/issues"
+  },
+  "homepage": "https://github.com/larvit/larvitissues-gui#readme"
+}
